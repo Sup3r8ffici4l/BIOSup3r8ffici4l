@@ -6,7 +6,4 @@
 - 😄 Pronouns: meh
 - ⚡ Fun fact: Worked on B-52 and have touched a NUKE
 
-<!---
-Sup3r8ffici4l/Sup3r8ffici4l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚬⛓️ I am very new to this, I am going to start some projects in this repository and see what happens. 
