@@ -1,25 +1,25 @@
 #HolLOW WORLD!
 print("Hello World")
-print("Welcome Can you guess the passkey???")
+print("Enter the secret PassWord to see the output of secrets")
+print("Hint: the answer is linked to README.")
 
 #set passcode
-correct_passcode="fatcat2024"
+correct_passcode = "chainsmoker"
 
 #initialize Attempts
-max_attempts=666
-attempts=0
+max_attempts = 666
+attempts = 0
 
-while attempts<max_attempts:
-    user_passcode=input("Input passkey")
+while attempts < max_attempts:
+    user_passcode = input("Input passkey ")
 #check input
-    if user_passcode==correct_passcode:
+    if user_passcode == correct_passcode:
         print("Access Granted")
-        print("Death is only the beginning")
-        print("Materials will be left behind")
+        print("The world is changing at every turn")
+        print("I Bought the Earth...SOld it too")
         break #exits loop if correct passcode
     else:
-        print("Forbidden knowledge access denied")
-        attempts+=66
-if attempts==max_attempts:
+        attempts += 66
+if attempts == max_attempts:
     print("Commense System Wipe...progress 100%")
 

@@ -6,4 +6,4 @@
 - 😄 Pronouns: meh
 - ⚡ Fun fact: Worked on B-52 and have touched a NUKE
 
-- 🚬⛓️ I am very new to this, I am going to start some projects in this repository and see what happens. 
+- ⛓️🚬 I am very new to this, I am going to start some projects in this repository and see what happens. 
